@@ -8,7 +8,7 @@ A powercord plugin with a context menu utility to move everyone from your curren
 
 # Installation
 
--  `git clone https://github.com/hellbound1337/vc-move-all.git`
+-  `git clone https://github.com/hellboundthegod/vc-move-all.git`
 
 # Support
 
